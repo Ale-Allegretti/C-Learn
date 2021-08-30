@@ -1,4 +1,0 @@
-1 "Piero Flacco" 100000.00
-2 "Federico Chesani" 110000.00
-2 "Piero Flacco" 150000.000
-4 "Paola Mello" 250000.000

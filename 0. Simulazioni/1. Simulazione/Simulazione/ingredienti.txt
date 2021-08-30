@@ -1,8 +1,0 @@
-impasto 1.00
-pomodoro 0.50
-mozzarella 1.00
-salame 1.50
-prosciutto 1.50
-bufala 2.20
-funghi 1.70
-gorgonzola 1.40

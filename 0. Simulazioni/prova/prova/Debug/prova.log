@@ -1,8 +1,0 @@
-﻿  cash.c
-  element.c
-  list.c
-  main.c
-  Generazione del codice in corso...
-C:\Users\User\source\repos\0. Simulazioni\prova\prova\list.c(93): warning C4716: 'member': deve restituire un valore
-C:\Users\User\source\repos\0. Simulazioni\prova\prova\element.c(49): warning C4715: 'compareOp': non tutti i percorsi di controllo restituiscono un valore
-  prova.vcxproj -> C:\Users\User\source\repos\0. Simulazioni\prova\Debug\prova.exe

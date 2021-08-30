@@ -1,7 +1,0 @@
-34 Chesani Mazzanti;Federico Domenico Maria;340.00
-45 ESTINTOChesani Mazzanti;Federico Domenico Maria;100.00
-61 Mello;Paola;115.00
-63 ESTINTOMello;Paola;61.00
-70 ESTINTOChesani Mazzanti;Federico Domenico Maria;1680.00
-73 Chesani Mazzanti;Federico Domenico Maria;3400.00
-74 Chesani Mazzanti;Federico Domenico Maria;6600.00
