@@ -1,0 +1,2 @@
+
+double funzione(double x);
