@@ -1,3 +1,5 @@
 logs/
 Debug/
 .vs/
+*.vcxproj
+*.sln
