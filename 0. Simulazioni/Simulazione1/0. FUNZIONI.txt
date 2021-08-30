@@ -1,0 +1,7 @@
+- Lettura da file a lista
+- Scrittura da lista a file
+- Ricerca da stringa in lista
+- Aggiorna lista con condizione
+- Trova da scruct in lista con condizione
+- Ordina struct con Naive
+- Calcolo totale tra vett-scruct e liste
