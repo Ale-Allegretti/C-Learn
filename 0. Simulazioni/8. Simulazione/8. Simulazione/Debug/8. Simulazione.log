@@ -1,0 +1,7 @@
+﻿  bar.c
+C:\Users\User\source\repos\0. Simulazioni\8. Simulazione\8. Simulazione\bar.c(91,45): warning C4142: 'compare': ridefinizione di tipo sicura
+C:\Users\User\source\repos\0. Simulazioni\8. Simulazione\8. Simulazione\bar.h(15): message : vedere la dichiarazione di 'compare'
+  list.c
+  main.c
+  Generazione del codice in corso...
+  8. Simulazione.vcxproj -> C:\Users\User\source\repos\0. Simulazioni\8. Simulazione\Debug\8. Simulazione.exe

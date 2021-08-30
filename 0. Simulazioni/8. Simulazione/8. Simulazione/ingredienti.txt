@@ -1,0 +1,9 @@
+prosciutto 80 26.50
+funghi_trifolati 20 35.00
+
+mozzarella 50 9.00
+
+
+scamorza 15 18.00
+speck 80 25.99
+prosciutto_cotto 80 19.90

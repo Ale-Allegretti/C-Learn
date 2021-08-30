@@ -1,0 +1,4 @@
+- Showlist per struct
+- Lettura da file con separatore su scruct con alloc
+- Ordinamento lista con scruct
+- Elimina ripetuti lista
